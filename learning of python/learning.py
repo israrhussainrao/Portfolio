@@ -1,3 +1,5 @@
+# it is a simple car logic game 
+
 command = ""
 started = False
 while True:
